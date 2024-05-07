@@ -1,6 +1,9 @@
 {
   "name": "nodejs-app",
   "version": "1.0.0",
+  "engines":{
+    "node": "14"
+  },
   "description": "A minimal Node.js web application.",
   "main": "index.js",
   "author": "alphasec",
